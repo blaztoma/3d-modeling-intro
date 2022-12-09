@@ -1,1 +1,1 @@
-# 3d-modeling-intro
+# Įvadas į trimatį modeliavimą su Blender
